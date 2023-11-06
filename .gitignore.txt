@@ -1,0 +1,14 @@
+# Ignore system files and directories
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP-related temporary files
+xamppfiles/temp
+
+# Ignore Node.js and NPM related files
+node_modules/
+package-lock.json
+
+# Ignore logs
+error_log
+access_log
